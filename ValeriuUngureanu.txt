@@ -3,3 +3,5 @@
 2. O mica modificare si incercam al doilea commit!
 
 3. O alta modificare pentru a testa al treilea commit!
+
+4. Urmatoarea modificare pentru testarea Git Bash si efectuarea celui de-al 4-lea commit ca ilustrare a faptului ca lucrurile incep sa mearga bine :) 
