@@ -1,1 +1,3 @@
 Salut lume si comunitate Git!
+
+Facem o mica modificare si incercam sa facem al doilea commit!
