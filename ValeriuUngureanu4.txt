@@ -1,1 +1,3 @@
-Utilizarea Vim !!!!!!
+Utilizarea Vim!!!
+
+Incerc sa ma clarific cu folosirea editorului Vim!
